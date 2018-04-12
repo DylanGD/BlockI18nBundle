@@ -1,5 +1,5 @@
 {
-  "name": "arkounay/block-bundle-i18n",
+  "name": "dylangd/block-bundle-i18n",
   "type": "symfony-bundle",
   "description": "WYSIWIG HTML editable blocks and entities bundle (multilingual version)",
   "keywords": [
@@ -18,7 +18,7 @@
   ],
   "require": {
     "php": ">=5.3.3",
-    "symfony/framework-bundle": "^3.0",
+    "symfony/framework-bundle": "^3.0 || ^4.0",
     "knplabs/doctrine-behaviors": "~1.1",
     "a2lix/translation-form-bundle": "2.*||3.*"
   },
